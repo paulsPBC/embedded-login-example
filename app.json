@@ -1,7 +1,7 @@
 {
   "name": "Get Fix Product Info Site",
-  "description": "Demonstrates Salesforce Identity on a 3rd Party Site",
-  "repository": "https://github.com/salesforceidentity/heroku-login-widget-example",
+  "description": "Demonstrates Salesforce Identity on a 3rd Party Site - Modified",
+  "repository": "https://github.com/paulsPBC/embedded-login-example",
   "website": "https://www.salesforce.com/platform/identity",
   "logo": "https://www.salesforceidentity.info/img/launcher.png",
   "keywords": ["salesforce", "heroku", "identity", "loginwidget"],
