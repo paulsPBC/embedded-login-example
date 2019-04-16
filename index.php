@@ -51,60 +51,7 @@
         </div>
     </div>
 </header>
-<section class="textured-section">
-    <h1>Curated Coffee Components</h1>
 
-
-    <ul class="products">
-        <li>
-            <img class="product-image" src="images/products/071715_Heroku_3270-.jpg" alt="">
-            <h3 class="product-name">AeroPress Coffee Maker</h3>
-            <div class="product-button"><a id="aero_link" class="btn btn-hot" href="#" onclick="SFIDWidget.login()">Login
-                    for more info</a></div>
-        </li>
-        <li>
-            <img class="product-image" src="images/products/071715_Heroku_3263-.jpg" alt="">
-            <h3 class="product-name">MSR Reactor 2.5L Stove System</h3>
-            <div class="product-button"><a id="reactor_link" class="btn btn-hot" href="#" onclick="SFIDWidget.login()">Login
-                    for more info</a></div>
-        </li>
-        <li>
-            <img class="product-image" src="images/products/071715_Heroku_3302.jpg" alt="">
-            <h3 class="product-name">Chemex Classic 6-cup Coffee Maker</h3>
-            <div class="product-button"><a id="chemex_link" class="btn btn-hot" href="#" onclick="SFIDWidget.login()">Login
-                    for more info</a></div>
-        </li>
-    </ul>
-
-</section>
-<section>
-
-    <h1>Complete Brewing Kits</h1>
-
-    <ul class="kits">
-        <li>
-            <img class="kit-image" src="images/kits/071715_Heroku_3338-Edit-.jpg" alt="">
-            <h3 class="kit-name">The Chemex Kit</h3>
-        </li>
-        <li>
-            <img class="kit-image" src="images/kits/071715_Heroku_3353-Edit-.jpg" alt="">
-            <h3 class="kit-name">The Pour Over Kit</h3>
-        </li>
-        <li>
-            <img class="kit-image" src="images/kits/071715_Heroku_3346-.jpg" alt="">
-            <h3 class="kit-name">The Camper’s Kit</h3>
-        </li>
-        <li>
-            <img class="kit-image" src="images/kits/071715_Heroku_3376-Edit-.jpg" alt="">
-            <h3 class="kit-name">The French Press Kit</h3>
-        </li>
-        <li>
-            <img class="kit-image" src="images/kits/071715_Heroku_3385-.jpg" alt="">
-            <h3 class="kit-name">The Cold Brew Kit</h3>
-        </li>
-    </ul>
-
-</section>
 <footer>
 
     <div class="trailer-logo">
