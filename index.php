@@ -25,11 +25,11 @@
     <meta name="salesforce-logout-handler" content="onLogout">
     <!-- <meta name="salesforce-cache-max-age" content="<?php echo getenv('SALESFORCE_CACHE_MAX_AGE'); ?>">
     <meta name="salesforce-logout-on-browser-close" content="<?php echo getenv('SALESFORCE_LOGOUT_ON'); ?>">
-    <meta name="salesforce-mask-redirects" content="<?php echo getenv('SALESFORCE_MASK_REDIR'); ?>"> -->
+    <meta name="salesforce-mask-redirects" content="<?php echo getenv('SALESFORCE_MASK_REDIR'); ?>">
     <meta name="salesforce-expid" content="<?php echo getenv('SALESFORCE_EXPID'); ?>">
 
     <meta name="salesforce-register-starturl-enabled"
-          content="<?php echo getenv('SALESFORCE_REG_STARTURL_ENABLED'); ?>">
+          content="<?php echo getenv('SALESFORCE_REG_STARTURL_ENABLED'); ?>">-->
     <link href="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL'); ?>/servlet/servlet.loginwidgetcontroller?type=css"
           rel="stylesheet" type="text/css"/>
     <script src="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL'); ?>/servlet/servlet.loginwidgetcontroller?type=javascript_widget"
