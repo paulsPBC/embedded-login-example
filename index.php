@@ -23,8 +23,8 @@
     <meta name="salesforce-self-register-enabled" content="<?php echo getenv('SALESFORCE_SELF_REGISTER_ENABLED'); ?>">
     <meta name="salesforce-login-handler" content="onLogin">
     <meta name="salesforce-logout-handler" content="onLogout">
-    <!-- <meta name="salesforce-cache-max-age" content="<?php echo getenv('SALESFORCE_CACHE_MAX_AGE'); ?>">
-    <meta name="salesforce-logout-on-browser-close" content="<?php echo getenv('SALESFORCE_LOGOUT_ON'); ?>">
+    <meta name="salesforce-cache-max-age" content="<?php echo getenv('SALESFORCE_CACHE_MAX_AGE'); ?>">
+    <!-- <meta name="salesforce-logout-on-browser-close" content="<?php echo getenv('SALESFORCE_LOGOUT_ON'); ?>">
     <meta name="salesforce-mask-redirects" content="<?php echo getenv('SALESFORCE_MASK_REDIR'); ?>">
 
 
