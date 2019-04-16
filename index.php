@@ -16,7 +16,7 @@
           content="https://<?php echo getenv('SALESFORCE_HEROKUAPP_URL'); ?>/_callback.php">
     <meta name="salesforce-mode" content="<?php echo getenv('SALESFORCE_MODE'); ?>">
     <meta name="salesforce-namespace" content="<?php echo getenv('SALESFORCE_NAMESPACE'); ?>">
-    <meta name="salesforce-target" content="#sign-in-link">
+    <meta name="salesforce-target" content="#pbc-sign-in-link">
     <meta name="salesforce-save-access-token" content="true">
     <meta name="salesforce-forgot-password-enabled"
           content="<?php echo getenv('SALESFORCE_FORGOT_PASSWORD_ENABLED'); ?>">
@@ -37,7 +37,7 @@
 </head>
 
 <body>
-<div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
+<div id="pbc-sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
 <header>
     <div class="masthead-elements-row-1">
         <div class="element-left"></div>
