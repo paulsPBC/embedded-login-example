@@ -1,7 +1,7 @@
 embedded-login-example
 ====================
 
-This simple app builds a basic PHP app running on Heroku and uses Salesforce Identity and the Login Widget project. Users have to log in to get access to data sheet.
+This simple app builds a basic PHP app running on Heroku and uses Salesforce Identity and the Login Widget project - this is a fork of the Salesforce created original to support testing of multi-site behaviour and alternate configurations. 
 
 Pre-requisites
 --------------
