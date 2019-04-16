@@ -55,9 +55,9 @@
 <footer>
 
     <div class="trailer-logo">
-        <img class="logo" src="images/fix-logotype.png" alt="Fix">
+        <img class="logo" src="images/branding/pbc-logo.jpg" alt="Fix">
         <br>
-        <span class="logo-text">Fine Coffee Kits</span>
+        <span class="logo-text">Pale Blue Consulting</span>
     </div>
 
     <div class="trailer-links">
