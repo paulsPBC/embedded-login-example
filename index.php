@@ -42,9 +42,9 @@
     <div class="masthead-elements-row-1">
         <div class="element-left"></div>
         <div class="element-middle">
-            <img class="logo" src="images/fix-logotype.png" alt="Fix">
+            <img class="logo" src="images/branding/pbc-logo.jpg" alt="Pale Blue Consulting">
             <br>
-            <span class="logo-text">Fine Coffee Kits</span>
+            <span class="logo-text">Pale Blue Consulting</span>
         </div>
         <div class="element-right">
         </div>
