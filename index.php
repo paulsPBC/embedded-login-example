@@ -9,7 +9,7 @@
     <link href="reset.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,600" type="text/css" rel="stylesheet">
     <link href="main.css" rel="stylesheet">
-    <!-- Adding additional parameters to alter behaviour in Heroku console -->
+    <!-- Adding additional parameters to alter behaviour in Heroku console  -->
     <meta name="salesforce-community" content="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL'); ?>">
     <meta name="salesforce-client-id" content="<?php echo getenv('SALESFORCE_CLIENT_ID'); ?>">
     <meta name="salesforce-redirect-uri"
