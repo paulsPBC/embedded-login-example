@@ -28,7 +28,7 @@
     <meta name="salesforce-mask-redirects" content="<?php echo getenv('SALESFORCE_MASK_REDIR'); ?>">-->
 
 
-    <meta name="salesforce-register-starturl-enabled"
+    <meta name="salesforce-self-register-starturl-enabled"
           content="<?php echo getenv('SALESFORCE_REG_STARTURL_ENABLED'); ?>">
           <meta name="salesforce-expid" content="<?php echo getenv('SALESFORCE_EXPID'); ?>">
     <link href="https://<?php echo getenv('SALESFORCE_COMMUNITY_URL'); ?>/servlet/servlet.loginwidgetcontroller?type=css"
